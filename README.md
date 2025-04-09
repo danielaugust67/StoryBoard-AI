@@ -1,4 +1,4 @@
-# 🎮 Cerita Interaktif AI (React + Gemini + PDF)
+# 🎮 Cerita Interaktif AI (React + Gemini)
 
 Sebuah aplikasi web interaktif yang memungkinkan pengguna memilih genre cerita, membaca cerita yang dibuat oleh AI, dan membuat pilihan yang memengaruhi alur serta akhir cerita. Cerita dihasilkan menggunakan **Gemini API** 
 
